@@ -8,18 +8,19 @@ function MyNavbar() {
         <Navbar expand="lg" className="bg-body-tertiary"> 
         {/* change navbar colours and styling here */}
             <Container>
-                <Navbar.Brand href="#home">Laura Kane Digital</Navbar.Brand>
+                <Navbar.Brand href="/">Laura Kane Digital</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="me-auto">
-                        <Nav.Link href="#home">home</Nav.Link>
-                        <Nav.Link href="#work">work</Nav.Link>
-                        <NavDropdown title="services" id="basic-nav-dropdown">
+                        <Nav.Link href="/">home</Nav.Link>
+                        <Nav.Link href="/work">work</Nav.Link>
+                        <Nav.Link href="/services">services</Nav.Link>
+                        {/* <NavDropdown title="services" id="basic-nav-dropdown">
                             <NavDropdown.Item href="webDev">front-end web development</NavDropdown.Item>
                             <NavDropdown.Item href="#socialMedia">social media</NavDropdown.Item>
                             <NavDropdown.Item href="#email">email marketing</NavDropdown.Item>
-                        </NavDropdown>
-                        <Nav.Link href="#contact">contact</Nav.Link>
+                        </NavDropdown> */}
+                        <Nav.Link href="/contact">contact</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>

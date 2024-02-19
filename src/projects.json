@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "The Financial Traveller",
+        "description": "Application to give user the latest financial news and exchange rates.",
+        "image": "",
+        "github": "https://github.com/kauralane/the-financial-traveller",
+        "deployed": "https://kauralane.github.io/the-financial-traveller/"
+    },
+    {
+        "id": 2,
+        "title": "Team Profile Generator",
+        "description": "Command-line application that uses the Inquirer package to render cards to the page depending on user input.",
+        "image": "",
+        "github": "https://github.com/kauralane/team-profile-generator",
+        "deployed": "https://kauralane.github.io/team-profile-generator/"
+    },
+    {
+        "id": 3,
+        "title": "Weather Dashboard",
+        "description": "Application that uses the OpenWeatherAPI to show the weather in any location the user searches for.",
+        "image": "",
+        "github": "https://github.com/kauralane/weather-dashboard",
+        "deployed": "https://kauralane.github.io/weather-dashboard/"
+    },
+    {
+        "id": 4,
+        "title": "Work Day Calendar",
+        "description": "Application that allows the user to submit calendar entries, making use of local storage and day.js",
+        "image": "",
+        "github": "https://github.com/kauralane/work-day-calendar",
+        "deployed": "https://kauralane.github.io/work-day-calendar/"
+    },
+    {
+        "id": 5,
+        "title": "Quiz Application",
+        "description": "Interactive quiz applicaiton that makes use of JavaScript",
+        "image": "",
+        "github": "https://github.com/kauralane/quiz-of-2023",
+        "deployed": "https://kauralane.gi,thub.io/quiz-of-2023/"
+    },
+    {
+        "id": 6,
+        "title": "Password Generator",
+        "description": "Application that generates a random password based on user-specified criteria.",
+        "image": "",
+        "github": "https://github.com/kauralane/password-generator",
+        "deployed": "https://kauralane.gi,thub.io/password-generator/"
+    }
+]

@@ -13,15 +13,15 @@ function MyNavbar() {
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
                     <Nav className="ml-auto">
-                        <Nav.Link href="/">home</Nav.Link>
-                        <Nav.Link href="/work">work</Nav.Link>
-                        <Nav.Link href="/services">services</Nav.Link>
+                        <Nav.Link className="navLink" href="/">home</Nav.Link>
+                        <Nav.Link className="navLink" href="/work">work</Nav.Link>
+                        <Nav.Link className="navLink" href="/services">services</Nav.Link>
                         {/* <NavDropdown title="services" id="basic-nav-dropdown">
                             <NavDropdown.Item href="webDev">front-end web development</NavDropdown.Item>
                             <NavDropdown.Item href="#socialMedia">social media</NavDropdown.Item>
                             <NavDropdown.Item href="#email">email marketing</NavDropdown.Item>
                         </NavDropdown> */}
-                        <Nav.Link href="/contact">contact</Nav.Link>
+                        <Nav.Link className="navLink" href="/contact">contact</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>

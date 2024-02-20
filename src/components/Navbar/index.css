@@ -1,17 +1,26 @@
 .customNav {
-    background-color:aquamarine;
+    background-image: url("../../assets/images/clouds-background.png");
+    background-position: top left;
     display: flex;
+    height: 100px;
+    margin-bottom: 25px;
 }
 
-#basic-navbar-nav {
+#basic-navbar-nav, #navbarCollapse {
     justify-content: right;
+    font-weight: bolder;
+    color: white;
 }
 
 #navTitle {
     font-weight: bolder;
     font-size: xx-large;
+    color: white;
+    text-shadow: 0px 0px 2px #283e42
 }
 
 .navbar>.container {
-    margin-left: 20px;
+    margin-left: 0px;
 }
+
+

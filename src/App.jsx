@@ -8,7 +8,7 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-    <Router basename={'/laura-kane-portfolio'}>
+    <Router basename={`/laura-kane-portfolio/`}>
       <MyNavbar />
 
       <Routes>

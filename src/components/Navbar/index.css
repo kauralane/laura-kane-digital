@@ -1,0 +1,17 @@
+.customNav {
+    background-color:aquamarine;
+    display: flex;
+}
+
+#basic-navbar-nav {
+    justify-content: right;
+}
+
+#navTitle {
+    font-weight: bolder;
+    font-size: xx-large;
+}
+
+.navbar>.container {
+    margin-left: 20px;
+}

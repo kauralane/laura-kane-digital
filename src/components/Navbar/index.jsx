@@ -2,16 +2,17 @@ import Container from 'react-bootstrap/Container';
 import Nav from 'react-bootstrap/Nav';
 import Navbar from 'react-bootstrap/Navbar';
 import NavDropdown from 'react-bootstrap/NavDropdown';
+import './index.css'
 
 function MyNavbar() {
     return (
-        <Navbar expand="lg" className="bg-body-tertiary"> 
+        <Navbar expand="lg" className="customNav"> 
         {/* change navbar colours and styling here */}
             <Container>
-                <Navbar.Brand href="/">Laura Kane Digital</Navbar.Brand>
+                <Navbar.Brand id="navTitle" href="/">LAURA KANE DIGITAL</Navbar.Brand>
                 <Navbar.Toggle aria-controls="basic-navbar-nav" />
                 <Navbar.Collapse id="basic-navbar-nav">
-                    <Nav className="me-auto">
+                    <Nav className="ml-auto">
                         <Nav.Link href="/">home</Nav.Link>
                         <Nav.Link href="/work">work</Nav.Link>
                         <Nav.Link href="/services">services</Nav.Link>

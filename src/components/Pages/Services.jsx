@@ -1,7 +1,7 @@
 const Services = () => {
 return (
     <>
-    <h1>Find out what services I offer here.</h1>
+    <h1>SERVICES</h1>
     </>
 )
 }

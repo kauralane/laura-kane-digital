@@ -5,3 +5,8 @@ img {
 h1 {
     font-weight: bold;
 }
+
+a {
+    color: black !important;
+    font-weight: bold !important;
+}

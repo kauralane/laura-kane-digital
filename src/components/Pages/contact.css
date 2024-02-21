@@ -1,0 +1,7 @@
+#contactFormLink:hover {
+    cursor:pointer;
+}
+
+#contactFormLink {
+    text-decoration: underline;
+}

@@ -3,7 +3,7 @@ import Card from 'react-bootstrap/Card';
 
 function ProjectCard({ project }) {
     return (
-        <Card border="dark" style={{ width: '50rem', textAlign: 'center', marginLeft: 50, marginBottom: 10}}>
+        <Card border="dark" style={{ maxWidth: '50rem', textAlign: 'center', marginLeft: 50, marginBottom: 10}}>
             <Card.Img variant="bottom" src={project.image} className="projectScreenshot" style= {{ maxHeight: 300, objectFit: 'cover', objectPosition: 'top left' }} />
             <Card.Body style={{ fontFamily: "Archivo Black, sans-serif", fontStyle: 'normal', textAlign: 'left', backgroundColor: 'var(--blue-color)'}}>
                 <Card.Title className="title">{project.title}</Card.Title>

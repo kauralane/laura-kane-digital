@@ -5,10 +5,9 @@ import { Home, Contact, Services, Work, Custom404 } from './components/Pages'
 import './App.css'
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
-    <Router basename={``}>
+    <Router basename={`/laura-kane-digital`}>
       <MyNavbar />
 
       <Routes>

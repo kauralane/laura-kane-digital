@@ -5,3 +5,7 @@
 #contactFormLink {
     text-decoration: underline;
 }
+
+h2:hover {
+    color: var(--blue-color);
+}

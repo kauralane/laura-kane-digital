@@ -1,12 +1,16 @@
-img {
-    max-width: 100%;
+#headshot {
+    max-width: 80%;
 }
 
 h1 {
     font-weight: bold;
 }
 
-a {
-    color: black !important;
-    font-weight: bold !important;
+#cv a {
+    color: black;
+    font-weight: bold;
+}
+
+#cv a:hover {
+    color: var(--blue-color) !important;
 }

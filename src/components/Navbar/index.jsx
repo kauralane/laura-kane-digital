@@ -21,7 +21,7 @@ function MyNavbar() {
                             <NavDropdown.Item href="#socialMedia">social media</NavDropdown.Item>
                             <NavDropdown.Item href="#email">email marketing</NavDropdown.Item>
                         </NavDropdown> */}
-                        <Nav.Link className="navLink" href="/contact">contact</Nav.Link>
+                        <Nav.Link className="navLink" href="./contact">contact</Nav.Link>
                     </Nav>
                 </Navbar.Collapse>
             </Container>

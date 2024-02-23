@@ -6,7 +6,7 @@ import './App.css'
 function App() {
 
   return (
-    <Router basename={`/`}>
+    <Router basename={`/laura-kane-digital`}>
       <MyNavbar />
 
       <Routes>

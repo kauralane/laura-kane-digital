@@ -1,5 +1,5 @@
 .customNav {
-    background-image: url("../../assets/images/clouds-background.png");
+    background-image: url("../../../public/assets/images/clouds-background.png");
     background-position: top left;
     display: flex;
     height: 100px;

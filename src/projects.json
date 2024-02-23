@@ -3,7 +3,7 @@
         "id": 1,
         "title": "THE FINANCIAL TRAVELLER",
         "description": "Application to give user the latest financial news and exchange rates.",
-        "image": "../public/assets/images/financial-traveller-fullscreen.png", 
+        "image": "./assets/images/financial-traveller-fullscreen.png", 
         "github": "https://github.com/kauralane/the-financial-traveller",
         "deployed": "https://kauralane.github.io/the-financial-traveller/"
     },
@@ -11,7 +11,7 @@
         "id": 2,
         "title": "WEATHER DASHBOARD",
         "description": "Application that uses the OpenWeatherAPI to show the weather in any location the user searches for.",
-        "image": "../public/assets/images/weather-dashboard-fullscreen.png",
+        "image": "./assets/images/weather-dashboard-fullscreen.png",
         "github": "https://github.com/kauralane/weather-dashboard",
         "deployed": "https://kauralane.github.io/weather-dashboard/"
     },
@@ -19,7 +19,7 @@
         "id": 3,
         "title": "WORK DAY CALENDAR",
         "description": "Application that allows the user to submit calendar entries, making use of local storage and day.js",
-        "image": "../public/assets/images/calendar-fullscreen.png",
+        "image": "./assets/images/calendar-fullscreen.png",
         "github": "https://github.com/kauralane/work-day-calendar",
         "deployed": "https://kauralane.github.io/work-day-calendar/"
     },
@@ -27,7 +27,7 @@
         "id": 4,
         "title": "QUIZ APPLICATION",
         "description": "Interactive quiz applicaiton that makes use of JavaScript",
-        "image": "../public/assets/images/quiz-fullscreen.png",
+        "image": "./assets/images/quiz-fullscreen.png",
         "github": "https://github.com/kauralane/quiz-of-2023",
         "deployed": "https://kauralane.github.io/quiz-of-2023/"
     },
@@ -35,7 +35,7 @@
         "id": 5,
         "title": "PASSWORD GENERATOR",
         "description": "Application that generates a random password based on user-specified criteria.",
-        "image": "../public/assets/images/password-fullscreen.png",
+        "image": "./assets/images/password-fullscreen.png",
         "github": "https://github.com/kauralane/password-generator",
         "deployed": "https://kauralane.gi,thub.io/password-generator/"
     }, 
@@ -43,7 +43,7 @@
         "id": 6,
         "title": "CSS-ONLY PORTFOLIO",
         "description": "Portfolio site created using solely HTML & CSS.",
-        "image": "../public/assets/images/CSS-portfolio-fullscreen.png",
+        "image": "./assets/images/CSS-portfolio-fullscreen.png",
         "github": "https://github.com/kauralane/laura-kane-portfolio/",
         "deployed": "https://kauralane.github.io/laura-kane-portfolio/"
     }

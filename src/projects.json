@@ -1,47 +1,54 @@
 [
     {
         "id": 1,
-        "title": "THE FINANCIAL TRAVELLER",
-        "description": "Application to give user the latest financial news and exchange rates.",
-        "image": "./financial-traveller-fullscreen.png", 
+        "title": "Bloomify",
+        "description": "A web application created using React as part of a group project. It allows users to explore new plants & flowers and save plants they own, or want to own, to their 'sanctuary'. The application also provides a way to keep track of plant watering schedules.",
+        "image": "./bloomify-screenshot.png",
+        "github": "https://github.com/kauralane/bloomify",
+        "deployed": "https://bl00mify.netlify.app/"
+    },
+    {
+        "id": 2,
+        "title": "Fare Divide Community Fridge",
+        "description": "This was a volunteer project in which I built the website for Fare Divide Community Interest Company, using WordPress. The website has pages for numerous Community Fridges and other community endeavours.",
+        "image": "./fare-divide.png",
+        "deployed": "https://faredivide.org.uk"
+    },
+    {
+        "id": 2,
+        "title": "The Financial Traveller",
+        "description": "Application to give user the latest financial news and exchange rates for locations that they search. Uses APIs, JavaScript, HTML, CSS.",
+        "image": "./financial-traveller-fullscreen.png",
         "github": "https://github.com/kauralane/the-financial-traveller",
         "deployed": "https://kauralane.github.io/the-financial-traveller/"
     },
     {
-        "id": 2,
-        "title": "WEATHER DASHBOARD",
-        "description": "Application that uses the OpenWeatherAPI to show the weather in any location the user searches for.",
+        "id": 3,
+        "title": "Weather Dashboard",
+        "description": "Application that uses the OpenWeatherAPI and jQuery to show the weather in any location the user searches for.",
         "image": "./weather-dashboard-fullscreen.png",
         "github": "https://github.com/kauralane/weather-dashboard",
         "deployed": "https://kauralane.github.io/weather-dashboard/"
     },
     {
-        "id": 3,
-        "title": "WORK DAY CALENDAR",
-        "description": "Application that allows the user to submit calendar entries, making use of local storage and day.js",
+        "id": 4,
+        "title": "Work Day Calendar",
+        "description": "Application that allows the user to submit calendar entries, making use of local storage and day.js.",
         "image": "./calendar-fullscreen.png",
         "github": "https://github.com/kauralane/work-day-calendar",
         "deployed": "https://kauralane.github.io/work-day-calendar/"
     },
     {
-        "id": 4,
-        "title": "QUIZ APPLICATION",
-        "description": "Interactive quiz applicaiton that makes use of JavaScript",
+        "id": 5,
+        "title": "Quiz Application",
+        "description": "Interactive quiz application demonstrating JavaScript skills.",
         "image": "./quiz-fullscreen.png",
         "github": "https://github.com/kauralane/quiz-of-2023",
         "deployed": "https://kauralane.github.io/quiz-of-2023/"
     },
     {
-        "id": 5,
-        "title": "PASSWORD GENERATOR",
-        "description": "Application that generates a random password based on user-specified criteria.",
-        "image": "./password-fullscreen.png",
-        "github": "https://github.com/kauralane/password-generator",
-        "deployed": "https://kauralane.gi,thub.io/password-generator/"
-    }, 
-    {
         "id": 6,
-        "title": "CSS-ONLY PORTFOLIO",
+        "title": "CSS-Only Portfolio",
         "description": "Portfolio site created using solely HTML & CSS.",
         "image": "./CSS-portfolio-fullscreen.png",
         "github": "https://github.com/kauralane/laura-kane-portfolio/",

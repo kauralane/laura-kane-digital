@@ -6,6 +6,6 @@
     text-decoration: underline;
 }
 
-h2:hover {
+#contact-heading:hover {
     color: var(--blue-color);
 }

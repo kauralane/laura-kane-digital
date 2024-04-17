@@ -15,19 +15,19 @@ return (
     <>
     <h1>CONTACT</h1>
         <a style= {{ color: 'black' }} href='mailto:laurakane98@live.co.uk'>
-            <h2>EMAIL</h2>
+            <h2 id="contact-heading">EMAIL</h2>
         </a>
         <a style={{ color: 'black' }} href='https://www.linkedin.com/in/laura-kane'>
-    <h2>LINKEDIN</h2>
+            <h2 id="contact-heading">LINKEDIN</h2>
         </a>
         <a style={{ color: 'black' }} href='https://github.com/kauralane'>
-    <h2>GITHUB</h2>
+            <h2 id="contact-heading">GITHUB</h2>
         </a>
-        <a onClick={handleShow}>
+        {/* <a onClick={handleShow}>
     <h2 id="contactFormLink">CONTACT FORM</h2>
-        </a>
+        </a> */}
 
-        <Modal show={show} onHide={handleClose} style={{ fontFamily: "Archivo Black, sans-serif" }}>
+        {/* <Modal show={show} onHide={handleClose} style={{ fontFamily: "Archivo Black, sans-serif" }}>
             <Modal.Header closeButton>
                 <Modal.Title>Get In Touch</Modal.Title>
             </Modal.Header>
@@ -66,7 +66,7 @@ return (
                     Submit
                 </Button>
             </Modal.Footer>
-        </Modal>
+        </Modal> */}
     </>
 )
 }

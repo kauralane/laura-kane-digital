@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "Short website launch email",
+        "description": "Email newsletter to launch a new website. Design and graphics from Laura Kane Digital (not copy).",
+        "image": "./georgia-screenshot.png",
+        "link": "https://mailchi.mp/7eb6034405b1/exciting-news-new-website-has-launched"
+    }, 
+    {
+        "id": 2,
+        "title": "Long-form email newsletter",
+        "description": "Long-form email newsletter. Design and graphics from Laura Kane Digital (not copy).",
+        "image": "./georgia2-screenshot.png",
+        "link": "https://mailchi.mp/dbfffb42d255/whats-happening-in-2024"
+    },
+    {
+        "id": 3,
+        "title": "Event & booking reminder email",
+        "description": "Charity email newsletter to remind audience of upcoming dates and how to book tickets. Design and copy by Laura Kane Digital.",
+        "image": "./fridge-screenshot.png",
+        "link": "https://mailchi.mp/bcd08e94fc74/littlehampton-community-fridge-newsletter"
+    }
+]

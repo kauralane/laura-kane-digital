@@ -2,6 +2,6 @@
     background-color: red;
 }
 
-.projectScreenshot {
-    opacity: 0.5;
+a.imageLink:hover {
+    opacity: 1 !important;
 }

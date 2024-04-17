@@ -15,9 +15,7 @@ This is my portfolio of work and more general site for 'Laura Kane Digital', mad
 
 Using React to create this application was challenging, particularly when trying to deploy to GitHub pages using React Router. I had to use a number of workarounds and try a lot of different things to get all my elements to render correctly and the routes to all work correctly. 
 
-[Deployed application:](https://kauralane.github.io/laura-kane-digital/)
-
-[!]()
+[Deployed application](https://kauralane.github.io/laura-kane-digital/)
 
 ## Installation
 N/A

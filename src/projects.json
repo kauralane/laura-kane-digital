@@ -15,7 +15,7 @@
         "deployed": "https://faredivide.org.uk"
     },
     {
-        "id": 2,
+        "id": 3,
         "title": "The Financial Traveller",
         "description": "Application to give user the latest financial news and exchange rates for locations that they search. Uses APIs, JavaScript, HTML, CSS.",
         "image": "./financial-traveller-fullscreen.png",
@@ -23,7 +23,7 @@
         "deployed": "https://kauralane.github.io/the-financial-traveller/"
     },
     {
-        "id": 3,
+        "id": 4,
         "title": "Weather Dashboard",
         "description": "Application that uses the OpenWeatherAPI and jQuery to show the weather in any location the user searches for.",
         "image": "./weather-dashboard-fullscreen.png",
@@ -31,7 +31,7 @@
         "deployed": "https://kauralane.github.io/weather-dashboard/"
     },
     {
-        "id": 4,
+        "id": 5,
         "title": "Work Day Calendar",
         "description": "Application that allows the user to submit calendar entries, making use of local storage and day.js.",
         "image": "./calendar-fullscreen.png",
@@ -39,7 +39,7 @@
         "deployed": "https://kauralane.github.io/work-day-calendar/"
     },
     {
-        "id": 5,
+        "id": 6,
         "title": "Quiz Application",
         "description": "Interactive quiz application demonstrating JavaScript skills.",
         "image": "./quiz-fullscreen.png",
@@ -47,7 +47,7 @@
         "deployed": "https://kauralane.github.io/quiz-of-2023/"
     },
     {
-        "id": 6,
+        "id": 7,
         "title": "CSS-Only Portfolio",
         "description": "Portfolio site created using solely HTML & CSS.",
         "image": "./CSS-portfolio-fullscreen.png",

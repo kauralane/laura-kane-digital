@@ -24,6 +24,7 @@ return (
                     <img id="headshot" src={headshot} alt="Photo of Laura Kane's face, smiling."></img>
                 </Col>
             </Row>
+            <br></br>
         </Container>
     </>
 )

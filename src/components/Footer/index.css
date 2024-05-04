@@ -1,0 +1,18 @@
+#email-footer:hover {
+    color: var(--blue-color) !important;
+}
+
+.page-footer {
+    background-color: var(--blue-color);
+    margin-top: 15px;
+}
+
+a:hover {
+    cursor: pointer;
+    color: white;
+}
+
+a {
+    color: white;
+    text-decoration: none !important;
+}

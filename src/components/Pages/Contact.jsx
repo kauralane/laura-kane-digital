@@ -15,7 +15,7 @@ return (
     <>
     <h1>CONTACT</h1>
         <a style= {{ color: 'black' }} href='mailto:laurakanesocials@gmail.com'>
-            <h2 id="contact-heading">EMAIL: laurakanesocials@gmail.com</h2>
+            <h2 id="contact-heading">EMAIL</h2>
         </a>
         <a style={{ color: 'black' }} href='https://www.linkedin.com/in/laura-kane-340951168/'>
             <h2 id="contact-heading">LINKEDIN</h2>

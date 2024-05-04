@@ -2,6 +2,7 @@ import { BrowserRouter as Router, Routes, Route } from 'react-router-dom'
 import MyNavbar from './components/Navbar'
 import { Home, Contact, Services, Work, Custom404 } from './components/Pages'
 import './App.css'
+import MyFooter from './components/Footer'
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
         <Route path='' element={< Home />} />
       </Routes>
 
+      <MyFooter />
     </Router>
   )
 }

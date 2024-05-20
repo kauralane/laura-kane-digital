@@ -29,7 +29,6 @@ const Work = () => {
 <hr></hr>
             <h2 id="social-link">Social media</h2>
             <p>Coming soon...</p>
-            );
         </>
     )
 }
